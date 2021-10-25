@@ -1,0 +1,1 @@
+This is an analysis on New York City Restaurant Inspection data from November 1, 2014 to January 31, 2015. The file explores the type of restaurants in the dataset and the most common violations in an attempt to advise readers on restaurant choices.
